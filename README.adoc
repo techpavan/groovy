@@ -80,3 +80,6 @@ The official CI server runs {groovy-ci}[here] (login as user guest and leave the
 == License
 
 Groovy is licensed under the terms of the http://www.apache.org/licenses/LICENSE-2.0.html[Apache License, Version 2.0]
+
+== Patch
+1. *2.3.11-patch1* is a patch version which includes fix for http://cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-3253[CVE-2015-3253] as described in http://groovy-lang.org/security.html[security updates page]. CVE-2016-6814 is not applicable for this version.
